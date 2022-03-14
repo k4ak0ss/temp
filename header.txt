@@ -1,5 +1,6 @@
 Some text hered 
 
 
-Changed by master
+Changed by <master>
+!!! Don't touch !!!
 
