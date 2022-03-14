@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 Some text hered 
 
+=======
+Some text heder
+Some text main
+>>>>>>> fed5866 (changed once)
 
 Changed by <master>
 !!! Don't touch !!!
